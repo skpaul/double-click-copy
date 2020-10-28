@@ -1,0 +1,31 @@
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe.config
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.pdb
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\KMHooker.dll
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csprojResolveAssemblyReference.cache
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.frmMain.resources
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.Properties.Resources.resources
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csproj.GenerateResource.Cache
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.exe
+C:\Users\skpaul\Desktop\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe.config
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\bin\Debug\KMHooker.dll
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csprojResolveAssemblyReference.cache
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.frmMain.resources
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.Properties.Resources.resources
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csproj.GenerateResource.Cache
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.exe
+E:\Software\Programming Tools\My Tools & Toolbar\Double Click Copy\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.pdb
+D:\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe.config
+D:\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.exe
+D:\DoubleClickCopy\DoubleClickCopy\bin\Debug\DoubleClickCopy.pdb
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csprojAssemblyReference.cache
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.frmMain.resources
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.Properties.Resources.resources
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csproj.GenerateResource.cache
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csproj.CoreCompileInputs.cache
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.csproj.CopyComplete
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.exe
+D:\DoubleClickCopy\DoubleClickCopy\obj\Debug\DoubleClickCopy.pdb
